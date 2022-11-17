@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "usernamehw.errorlens",
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "stylelint.vscode-stylelint"
+    ]
+}
